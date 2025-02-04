@@ -184,7 +184,7 @@ exclude = ["vdi/host", "examples/custom_plugin"]
 LegalCopyright = "Copyright © 2025 Purslane Ltd. All rights reserved."
 ProductName = "LabDesk"
 FileDescription = "Labdesk Acesso Remoto"
-OriginalFilename = "rustdesk.exe"
+OriginalFilename = "labdesk.exe"
 
 [target.'cfg(target_os="windows")'.build-dependencies]
 winres = "0.1"
