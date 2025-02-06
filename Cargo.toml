@@ -5,7 +5,7 @@ authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
 description = "LabDesk Acesso Remoto"
-default-run = "rustdesk"
+default-run = "labdesk"
 rust-version = "1.75"
 
 [lib]
